@@ -14,5 +14,8 @@ git config --global --unset user.name "rtcvb"
 
 git config --global --unset user.name "rtcvb@sina.com"
 
-git remove form mac device
+git remove form mac device 
+
+remove from macbook 钥匙串
+
 ```
