@@ -14,5 +14,5 @@ git config --global --unset user.email "*****@s***.com"
 
 Q:how to remove git password from macbook?
 
-A:remove from macbook 钥匙串
+A:remove from macbook Key strings
 ```
